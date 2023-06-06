@@ -1,0 +1,32 @@
+﻿<Window x:Class="militaria_zadanie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:militaria_zadanie"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.DataContext>
+        <local:MainViewModel/>
+    </Window.DataContext>
+    <Window.Resources>
+        <local:LevelNameColorConverter x:Key="LevelNameColorConverter" />
+    </Window.Resources>
+    <Grid>
+        <DataGrid ItemsSource="{Binding Areas}" AutoGenerateColumns="False" Margin="10,0,-10,0" SelectionChanged="DataGrid_SelectionChanged_1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" />
+                <DataGridTextColumn Header="NAZWA" Binding="{Binding Name}" />
+                <DataGridTextColumn Header="IdNadrzednyElement" Binding="{Binding ParentId}" />
+                <DataGridTextColumn Header="Level Name" Binding="{Binding LevelName}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="Background" Value="{Binding LevelName, Converter={StaticResource LevelNameColorConverter}}" />
+                            <Setter Property="Foreground" Value="black" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

@@ -1,0 +1,9 @@
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\MilitariaZadania.csproj.AssemblyReference.cache
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\App.g.cs
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\MilitariaZadania_MarkupCompile.cache
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\MilitariaZadania_MarkupCompile.lref
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\MilitariaZadania.dll
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\refint\MilitariaZadania.dll
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\MilitariaZadania.pdb

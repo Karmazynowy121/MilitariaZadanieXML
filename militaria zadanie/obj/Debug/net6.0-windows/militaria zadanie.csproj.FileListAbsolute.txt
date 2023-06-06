@@ -1,0 +1,48 @@
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\bin\Debug\net6.0-windows\militaria zadanie.exe
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\bin\Debug\net6.0-windows\militaria zadanie.deps.json
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\bin\Debug\net6.0-windows\militaria zadanie.runtimeconfig.json
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\bin\Debug\net6.0-windows\militaria zadanie.dll
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\bin\Debug\net6.0-windows\militaria zadanie.pdb
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\bin\Debug\net6.0-windows\Microsoft.Toolkit.Mvvm.dll
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.csproj.AssemblyReference.cache
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\App.g.cs
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie_MarkupCompile.cache
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie_MarkupCompile.lref
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\MainWindow.baml
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.g.resources
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.AssemblyInfoInputs.cache
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.AssemblyInfo.cs
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.csproj.CoreCompileInputs.cache
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.csproj.CopyComplete
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.dll
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\refint\militaria zadanie.dll
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.pdb
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.genruntimeconfig.cache
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\ref\militaria zadanie.dll
+D:\githubcurse\GymRat\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\githubcurse\militaria zadanie\militaria zadanie\bin\Debug\net6.0-windows\militaria zadanie.exe
+D:\githubcurse\militaria zadanie\militaria zadanie\bin\Debug\net6.0-windows\militaria zadanie.deps.json
+D:\githubcurse\militaria zadanie\militaria zadanie\bin\Debug\net6.0-windows\militaria zadanie.runtimeconfig.json
+D:\githubcurse\militaria zadanie\militaria zadanie\bin\Debug\net6.0-windows\militaria zadanie.dll
+D:\githubcurse\militaria zadanie\militaria zadanie\bin\Debug\net6.0-windows\militaria zadanie.pdb
+D:\githubcurse\militaria zadanie\militaria zadanie\bin\Debug\net6.0-windows\Microsoft.Toolkit.Mvvm.dll
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.csproj.AssemblyReference.cache
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\App.g.cs
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie_MarkupCompile.cache
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie_MarkupCompile.lref
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\MainWindow.baml
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.g.resources
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.AssemblyInfoInputs.cache
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.AssemblyInfo.cs
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.csproj.CoreCompileInputs.cache
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.csproj.CopyComplete
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.dll
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\refint\militaria zadanie.dll
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.pdb
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\militaria zadanie.genruntimeconfig.cache
+D:\githubcurse\militaria zadanie\militaria zadanie\obj\Debug\net6.0-windows\ref\militaria zadanie.dll

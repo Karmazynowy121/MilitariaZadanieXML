@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oI+cLAhH0sO4uLZsC6cRnpiRj6T5stRf6mxir1H+jSeG6uaUQ6uptcEB7Q7JRl2WmJ6JwdEyIVY+0pS+xjCjqQ==",
+  "success": true,
+  "projectFilePath": "D:\\githubcurse\\militaria zadanie\\militaria zadanie\\militaria zadanie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karmazynowy\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.1.2\\microsoft.toolkit.mvvm.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
